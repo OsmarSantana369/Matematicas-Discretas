@@ -1,0 +1,63 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish]{babel}
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{parskip}
+
+\begin{document}
+    Ejercicio 1. Si $ a $ es un número racional y $ b $ es un número irracional, 
+
+    \begin{enumerate}
+        \item ¿$ a + b $ es necesariamente irracional? 
+
+        \item ¿$ ab $ es necesariamente irracional?
+
+        \item Responder las dos preguntas anteriores asumiendo que $ a $ y $ b $ son irracionales
+    \end{enumerate}
+
+
+
+    Ejercicio 2. Sean $ A $ y $ B $ conjuntos acotados de reales (es decir, acotados inferior y superiormente). Probar que si $ A \cap B \neq \emptyset $, entonces $ A \cap B $ es acotado y además 
+    $$ \max \lbrace \inf (A), \inf(B) \rbrace \leq \inf(A \cap B) \leq \sup(A \cap B) \leq \min \lbrace \sup (A), \sup(B) \rbrace $$
+    \textbf{Demostración.}
+
+    Como $ A $ es un conjunto acotado, existen $ \inf (A) $ y $ \sup (A) $. Ya que $ \inf (A) \leq a \leq \sup (A), \forall \, a \in A $, en particular, $ \forall \, a \in A \cap B $, se tiene que $ A \cap B $ está acotado inferior y superiormente, por lo que existen $ \inf (A \cap B) $ y $ \sup (A \cap B) $, de los cuales se da que
+    \begin{equation}
+        \inf (A \cap B) \leq c \leq \sup (A \cap B), \forall \, c \in A \cap B
+        \label{infsup}
+    \end{equation}
+    Después, suponiendo que $ \inf (A \cap B) < \max \lbrace \inf (A), \inf (B) \rbrace $, y suponiendo, sin pérdida de generalidad, que $ \max \lbrace \inf (A), \inf (B) \rbrace = \inf (A) $, se tiene que $ \inf (A \cap B) < \inf (A) $. Y como $ \inf (A) \leq a, \forall \, a \in A $, en particular $ \forall \, a \in A \cap B $, se da que $ \inf (A) $ es una cota inferior de $ A \cap B $ mayor que $ \inf (A \cap B) $, lo cual es una contradicción, pues $ \inf (A \cap B) $ es la máxima cota inferior de $ A \cap B $.
+
+    De esta forma, 
+    \begin{equation}
+        \max \lbrace \inf (A), \inf (B) \rbrace \leq \inf (A \cap B)
+        \label{maxinf}
+    \end{equation}
+    Ahora, suponiendo que $ \min \lbrace \sup (A), \sup (B) \rbrace < \sup (A \cap B) $, y suponiendo, sin pérdida de generalidad, que $ \min \lbrace \sup (A), \sup (B) \rbrace = \sup (A) $, se tiene que $ \sup (A) < \sup (A \cap B) $. Y como $ \sup(A) \geq a, \forall \, a \in A $, en particular $ \forall \, a \in A \cap B $, se da que $ \sup (A) $ es una cota superior de $ A \cap B $ menor que $ \sup (A \cap B) $, lo cual es una contradicción, pues $ \sup (A \cap B) $ es la mínima cota superior de $ A \cap B $.
+
+    De esta manera, 
+    \begin{equation}
+        \sup(A \cap B) \leq \min \lbrace \sup (A), \sup(B) \rbrace
+        \label{minsup}
+    \end{equation}
+    $ \therefore \max \lbrace \inf (A), \inf(B) \rbrace \leq \inf(A \cap B) \leq \sup(A \cap B) \leq \min \lbrace \sup (A), \sup(B) \rbrace $, por (\ref{maxinf}), (\ref{infsup}) y (\ref{minsup}). $ \blacksquare $
+
+    Ejercicio 4. Sea $ S $ un conjunto no vacío de números reales y sea $ \alpha $ una cota superior de $ S $. Demostrar que $ \alpha $ es el supremo de $ S $ si y sólo si para cada $ \epsilon > 0 $ existe $ x \in S $ tal que $ \alpha - \epsilon < x $.
+
+    \textbf{Demostración.}
+
+    \begin{tabular}{l p{10.5cm}}
+        $ \left. \Longrightarrow \right] $ & Suponiendo que $ \alpha $ es el supremo de $ S $. \\
+
+        & Suponiendo que existe $ \epsilon > 0 $ tal que $ \forall \, x \in S $ se tiene que $ x \leq \alpha - \epsilon $. De esta manera, $ \alpha - \epsilon $ es una cota superior de $ S $ pero $ \alpha - \epsilon < \alpha $, lo cual es una contradicción, pues $ \alpha $ es el supremo de $ S $. \\
+
+        & $ \therefore $ para cada $ \epsilon > 0 $ existe $ x \in S $ tal que $ \alpha - \epsilon < x $. \\[3mm]
+
+        $ \left. \Longleftarrow \right] $ & Suponiendo que para cada $ \epsilon > 0 $ existe $ x \in S $ tal que $ \alpha - \epsilon < x $. \\
+
+        & Sea $ \beta $ una cota superior de $ S $ y suponiendo que $ \beta < \alpha $, se tiene que $ 0 < \alpha - \beta $. Así, existe $ x \in S $ tal que $ \alpha - ( \alpha - \beta ) < x $, es decir, $ \beta < x $, lo cual es una contradicción, pues $ \beta $ es cota superior de $ S $. \\
+
+        & De esta forma, no existe una cota superior de $ S $ que sea menor a $ \alpha $. \\
+
+        & $ \therefore \alpha $ es el supremo de $ S $.
+    \end{tabular}
+\end{document}
