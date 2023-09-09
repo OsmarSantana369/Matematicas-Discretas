@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1692589892 "c:/Users/CONTROL/Desktop/Matematicas-Discretas/Tarea 2/Tarea_2.tex" "build/Tarea_2.pdf" "Tarea_2" 1692589895 0
-  "C:/Users/CONTROL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1689878158 421044 da052feb806ef50d43fec3a7d474afa0 ""
+["pdflatex"] 1694225136 "c:/Users/CONTROL/Desktop/Matematicas-Discretas/Tarea 2/Tarea_2.tex" "build/Tarea_2.pdf" "Tarea_2" 1694225142 0
+  "C:/Users/CONTROL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1693837462 421044 da052feb806ef50d43fec3a7d474afa0 ""
   "C:/Users/CONTROL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1687308522 23219382 cd22b37b76d1f30c7f6f87a43549dc11 ""
   "C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -40,9 +40,9 @@
   "C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
   "C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
-  "Tarea_2.tex" 1692589889 4405 7e25a830af8c38afc1dd85411900e23c ""
-  "build/Tarea_2.aux" 1692589895 290 19ba297a55ff837dbc99bd1b3288b4c6 "pdflatex"
-  "c:/Users/CONTROL/Desktop/Matematicas-Discretas/Tarea 2/Tarea_2.tex" 1692589889 4405 7e25a830af8c38afc1dd85411900e23c ""
+  "Tarea_2.tex" 1694225126 4406 2a3dcf9e4b597537e757bc80cbd5d6fc ""
+  "build/Tarea_2.aux" 1694225141 290 19ba297a55ff837dbc99bd1b3288b4c6 "pdflatex"
+  "c:/Users/CONTROL/Desktop/Matematicas-Discretas/Tarea 2/Tarea_2.tex" 1694225126 4406 2a3dcf9e4b597537e757bc80cbd5d6fc ""
   (generated)
   "build/Tarea_2.aux"
   "build/Tarea_2.log"
