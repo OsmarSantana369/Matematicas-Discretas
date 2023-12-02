@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.10)  27 NOV 2023 01:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.10)  1 DEC 2023 23:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -745,64 +745,60 @@ LaTeX Font Info:    Font shape `T1/erewhon-TLF/m/n' will be
 \c@tcb@cnt@definicion=\count328
 \c@tcb@cnt@teorema=\count329
 \c@tcb@cnt@ejemplo=\count330
-LaTeX Font Info:    Trying to load font information for T1+erewhon-LF on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+erewhon-LF on input line 42.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/erewhon\t1erewhon-lf.fd
 File: T1erewhon-LF.fd 2014/09/11 (autoinst) Font definitions for T1/erewhon-LF.
 )
 LaTeX Font Info:    Font shape `T1/erewhon-LF/m/n' will be
-(Font)              scaled to size 11.65074pt on input line 40.
+(Font)              scaled to size 11.65074pt on input line 42.
  (c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
-
-
-LaTeX Warning: Label `teo:trayectoria_minima' multiply defined.
-
 )
 \openout1 = `operacion_graficas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 40.
-LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 40.
+LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 42.
+LaTeX Font Info:    Trying to load font information for OML+zutmi on input line 42.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzutmi.fd
 File: omlzutmi.fd 2014/04/14 Fontinst v1.933 font definitions for OML/zutmi.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 42.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 42.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 42.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-LaTeX Info: Command `\dddot' is already robust on input line 40.
-LaTeX Info: Command `\ddddot' is already robust on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Command `\dddot' is already robust on input line 42.
+LaTeX Info: Command `\ddddot' is already robust on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -863,7 +859,7 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 42.
  (c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.out) (c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.out)
 \@outlinefile=\write4
 \openout4 = `operacion_graficas.out'.
@@ -871,67 +867,89 @@ Package hyperref Info: Link coloring OFF on input line 40.
 \c@mv@tabular=\count337
 \c@mv@boldtabular=\count338
 LaTeX Font Info:    Font shape `T1/erewhon-LF/b/n' will be
-(Font)              scaled to size 11.65074pt on input line 41.
-LaTeX Font Info:    Trying to load font information for OT1+erewhon-TLF on input line 42.
+(Font)              scaled to size 11.65074pt on input line 43.
+LaTeX Font Info:    Trying to load font information for OT1+erewhon-TLF on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/erewhon\ot1erewhon-tlf.fd
 File: OT1erewhon-TLF.fd 2022/05/15 (autoinst) Font definitions for OT1/erewhon-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/erewhon-TLF/m/n' will be
-(Font)              scaled to size 11.65074pt on input line 42.
+(Font)              scaled to size 11.65074pt on input line 44.
 LaTeX Font Info:    Font shape `OT1/erewhon-TLF/m/n' will be
-(Font)              scaled to size 8.51196pt on input line 42.
+(Font)              scaled to size 8.51196pt on input line 44.
 LaTeX Font Info:    Font shape `OT1/erewhon-TLF/m/n' will be
-(Font)              scaled to size 6.49037pt on input line 42.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+(Font)              scaled to size 6.49037pt on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 44.
  (C:\Users\CONTROL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/erewhon-LF/m/n' will be
-(Font)              scaled to size 8.51196pt on input line 42.
+(Font)              scaled to size 8.51196pt on input line 44.
 LaTeX Font Info:    Font shape `T1/erewhon-LF/m/n' will be
-(Font)              scaled to size 6.49037pt on input line 42.
-<Ejemplo_1/Ejemplo1_G1.jpg, id=6, 216.05719pt x 175.40532pt>
+(Font)              scaled to size 6.49037pt on input line 44.
+<gradial.png, id=6, 49.68562pt x 45.16875pt>
+File: gradial.png Graphic file (type png)
+<use gradial.png>
+Package pdftex.def Info: gradial.png  used on input line 44.
+(pdftex.def)             Requested size: 8.53581pt x 7.7599pt.
+File: gradial.png Graphic file (type png)
+<use gradial.png>
+Package pdftex.def Info: gradial.png  used on input line 46.
+(pdftex.def)             Requested size: 8.53581pt x 7.7599pt.
+File: gradial.png Graphic file (type png)
+<use gradial.png>
+Package pdftex.def Info: gradial.png  used on input line 51.
+(pdftex.def)             Requested size: 8.53581pt x 7.7599pt.
+File: gradial.png Graphic file (type png)
+<use gradial.png>
+Package pdftex.def Info: gradial.png  used on input line 51.
+(pdftex.def)             Requested size: 8.53581pt x 7.7599pt.
+<Ejemplo_1/Ejemplo1_G1.jpg, id=7, 216.05719pt x 175.40532pt>
 File: Ejemplo_1/Ejemplo1_G1.jpg Graphic file (type jpg)
 <use Ejemplo_1/Ejemplo1_G1.jpg>
-Package pdftex.def Info: Ejemplo_1/Ejemplo1_G1.jpg  used on input line 57.
+Package pdftex.def Info: Ejemplo_1/Ejemplo1_G1.jpg  used on input line 59.
 (pdftex.def)             Requested size: 129.75356pt x 105.34302pt.
-<Ejemplo_1/Ejemplo1_G2.jpg, id=7, 218.31563pt x 200.24812pt>
+<Ejemplo_1/Ejemplo1_G2.jpg, id=8, 218.31563pt x 200.24812pt>
 File: Ejemplo_1/Ejemplo1_G2.jpg Graphic file (type jpg)
 <use Ejemplo_1/Ejemplo1_G2.jpg>
-Package pdftex.def Info: Ejemplo_1/Ejemplo1_G2.jpg  used on input line 60.
+Package pdftex.def Info: Ejemplo_1/Ejemplo1_G2.jpg  used on input line 62.
 (pdftex.def)             Requested size: 129.75356pt x 119.01619pt.
-<Ejemplo_1/Ejemplo1_Gg.jpg, id=8, 222.8325pt x 207.77625pt>
+<Ejemplo_1/Ejemplo1_Gg.jpg, id=9, 222.8325pt x 207.77625pt>
 File: Ejemplo_1/Ejemplo1_Gg.jpg Graphic file (type jpg)
 <use Ejemplo_1/Ejemplo1_Gg.jpg>
-Package pdftex.def Info: Ejemplo_1/Ejemplo1_Gg.jpg  used on input line 117.
+Package pdftex.def Info: Ejemplo_1/Ejemplo1_Gg.jpg  used on input line 119.
 (pdftex.def)             Requested size: 135.959pt x 126.77185pt.
  [1
 
-{C:/Users/CONTROL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_kjdw2u.enc}{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_qqbsse.enc} <./Ejemplo_1/Ejemplo1_G1.jpg> <./Ejemplo_1/Ejemplo1_G2.jpg>]
+{C:/Users/CONTROL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_kjdw2u.enc}{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_qqbsse.enc} <./gradial.png> <./Ejemplo_1/Ejemplo1_G1.jpg> <./Ejemplo_1/Ejemplo1_G2.jpg>]
 LaTeX Font Info:    Font shape `T1/erewhon-LF/m/sc' will be
-(Font)              scaled to size 11.65074pt on input line 133.
- [2{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_4ap5la.enc} <./Ejemplo_1/Ejemplo1_Gg.jpg>] [3
-pdfTeX warning (ext4): destination with the same identifier (name{teo:trayectoria_minima}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.166 \end{document}
-                    ] (c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.aux
+(Font)              scaled to size 11.65074pt on input line 141.
+ [2{C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/erewhon/zut1_4ap5la.enc} <./Ejemplo_1/Ejemplo1_Gg.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+[]$[]\LMS/ntxsy/m/n/10.95 �\OML/zutmi/m/it/10.95 G[] \LMS/ntxsy/m/n/10.95 ^^C \OML/zutmi/m/it/10.95 G[]\LMS/ntxsy/m/n/10.95 � \U/ntxmia/m/it/10.95 = []$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+[]$[]$
+ []
+
+[3] (c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -939,25 +957,21 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `operacion_graficas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26373 strings out of 474582
- 484347 string characters out of 5744557
+ 26397 strings out of 474582
+ 484815 string characters out of 5744557
  1952533 words of memory out of 5000000
- 48048 multiletter control sequences out of 15000+600000
- 591418 words of font info for 91 fonts, out of 8000000 for 9000
+ 48063 multiletter control sequences out of 15000+600000
+ 591665 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,14n,107p,598b,1119s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/Erewhon-Bold.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/Erewhon-Regular.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/erewMI.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/erewMR.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaSTbb.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.pdf (3 pages, 183886 bytes).
+ 101i,14n,107p,598b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/Erewhon-Bold.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/Erewhon-Regular.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/erewMI.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/erewhon/erewMR.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaSTbb.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><C:/Users/CONTROL/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+Output written on c:\Users\CONTROL\Desktop\Matematicas-Discretas\Operación_gráficas\build\operacion_graficas.pdf (3 pages, 191892 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
