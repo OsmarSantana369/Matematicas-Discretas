@@ -1,0 +1,17 @@
+\beamer@slide {def:grafica_de_gradial}{3}
+\beamer@slide {ejem:procedimiento_construccion_Gg}{5}
+\beamer@slide {prop:Gg_bipartita}{8}
+\beamer@slide {prop:conmutatividad}{10}
+\beamer@slide {ejem:conmutatividad}{11}
+\beamer@slide {teo:subgrafica_bipartita_completa}{13}
+\beamer@slide {ejem:subgrafica_bipartita_completa}{15}
+\beamer@slide {cor:maxmin_bipartita_completa}{16}
+\beamer@slide {cor:regulares_completa}{17}
+\beamer@slide {ejem:igualdad_sumas}{19}
+\beamer@slide {teo:Gg_igual_complementos}{20}
+\beamer@slide {ejem:Gg_igual_complementos}{23}
+\beamer@slide {teo:trayectoria_minima}{24}
+\beamer@slide {teo:disconexidad_igualdad_gradial}{26}
+\beamer@slide {cor:graficas_isomorfas}{27}
+\beamer@slide {def:gradialmente_sucesiva}{27}
+\beamer@slide {teo:clases_mayores}{30}
